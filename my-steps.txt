@@ -1,0 +1,125 @@
+### Step 2A
+/c/Users/janek/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 2B
+$ cd Desktop
+
+-janek@LAPTOP-F88USUN4 MINGW64 ~/Desktop 
+
+
+### Step 2C
+$ cd unit1-git-practice/
+
+janek@LAPTOP-F88USUN4 MINGW64 ~/Desktop/unit1-git-practice (main)
+
+
+### Step 2D
+$ cd /users/janek/Desktop/unit1-git-practice/
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ..
+
+
+### Step 2H
+ pwd
+/c/Users/janek/Desktop
+
+
+### Step 2I
+$ ls
+'Discover Details.pdf'
+'Git Hub'/
+'GitHub Desktop.lnk'*
+'Janekia (Person 1) - Chrome.lnk'*
+'Janekia.Pinkard.Resume 11.2022 Resume.pdf'
+'Lesson 1 - Introduction to Programming with Python   Jovian.lnk'*
+ MongoDBCompass.lnk*
+ Paystubs/
+ Postman.lnk*
+ Slack.lnk*
+ Zoom.lnk*
+ desktop.ini
+ facebookkeys.txt
+'hosting sites.txt'
+'job sites.txt'
+ nodejs_tutorial/
+ projects.txt
+ unit1-git-practice/
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+$ cd Desktop/unit1-git-practice
+
+
+### Step 3A
+touch veggies, touch meats, touch desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+touch protein
+
+
+### Step 3D
+$ mv meats protein
+
+
+### Step 3E
+$ touch "pea.txt"
+
+touch "carrot.txt"
+### Step 3F
+cd.. => cd sweets => mkdir "cookie.txt"
+
+### Step 3G
+ mv "cookie.txt" "donut.txt"
+
+
+### Step 3H
+cd .. => mkdir "thing.txt"
+
+### Step 3I
+cp "thing.txt" "tofu.txt"
+
+### Step 3J
+mv "tofu.txt" proteins
+
+### Step 3K
+ 
+
+
+### Step 3L
+rm "thing.txt"
+
+### Step 3M
+$ cp -r veggies plants
+
+
+### Step 3N
+ mkdir drinks
+
+ rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
